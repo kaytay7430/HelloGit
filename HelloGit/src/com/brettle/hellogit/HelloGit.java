@@ -6,8 +6,9 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		//hello
 		//this is a comment
-		String message = "Hello Git!";
-		return message;
+		if(false)
+			return "Hello, Gov";
+		return "Hello Git!";
 		//This is such an efficient program now
 	}
 
